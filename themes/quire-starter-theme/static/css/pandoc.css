@@ -1,0 +1,7 @@
+.quire-navbar,
+.quire__secondary,
+.hero,
+svg,
+footer {
+    display: none !important;
+}
