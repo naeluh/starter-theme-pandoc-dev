@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
   </url>
   
   <url>
-    <loc>/contents/</loc>
+    <loc>//localhost:1313/contents/</loc>
   </url>
   
   <url>
-    <loc>/french-art/</loc>
+    <loc>//localhost:1313/french-art/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/</loc>
+    <loc>//localhost:1313/catalogue/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/1/</loc>
+    <loc>//localhost:1313/catalogue/1/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/2/</loc>
+    <loc>//localhost:1313/catalogue/2/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/3/</loc>
+    <loc>//localhost:1313/catalogue/3/</loc>
   </url>
   
   <url>
-    <loc>/contributors/</loc>
+    <loc>//localhost:1313/contributors/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url>
   
   <url>
-    <loc>/search.json</loc>
+    <loc>//localhost:1313/search.json</loc>
   </url>
   
 </urlset>
